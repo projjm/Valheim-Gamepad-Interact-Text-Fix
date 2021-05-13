@@ -4,7 +4,7 @@ This mod will allow you to fix this but **you must specify the button name yours
 
 # Installation
 You must have BenInEx installed.\
-Copy **GamepadInteractTextFix.dll** into **Valheim\BepInEx\plugins
+Copy **GamepadInteractTextFix.dll** into **Valheim\BepInEx\plugins**
 
 # Config
 In order to specify the text/button that you want to be displayed, navigate to **Valheim\BepInEx\config** and look for a file named **projjm.gamepadInteractTextFix.cfg**.
