@@ -1,4 +1,4 @@
-# Valheim-Gamepad-Interact-Text-Fix
+# Valheim - Gamepad Interact Text Fix
 Currently Valheim does not display the correct gamepad button binding when hovering over an interactable item.
 This mod will allow you to fix this but **you must specify the button name yourself** as it will **not be automatically detected** in-game (or download one of the preconfigured packs)
 
